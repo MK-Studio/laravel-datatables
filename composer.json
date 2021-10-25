@@ -2,9 +2,9 @@
     "name": "mk-studio/laravel-datatables",
     "description": "Datatables Management for Laravel",
     "type": "library",
-	"license": "MIT",
-	"minimum-stability": "dev",
-        "authors": [
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
         {
             "name": "Amine TIRECHT",
             "email": "amine.tirecht@gmail.com"
@@ -14,12 +14,12 @@
             "email": "eddahmani.ans@gmail.com"
         }
     ],
-	"autoload": {
+    "autoload": {
         "psr-4": {
             "MKStudio\\LaravelDatatables\\": "src/"
         }
     },
-	"require": {
+    "require": {
         "eloquent/composer-npm-bridge": "dev-master"
     },
     "extra": {
