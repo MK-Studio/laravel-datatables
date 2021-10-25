@@ -1,0 +1,11 @@
+{
+	"name": "laravel-datatables",
+	"version": "1.0.0",
+	"description": "Datatables Management for Laravel",
+	"dependencies": {
+		"datatables.net": "^1.11.3"
+	},
+	"author": "",
+	"license": "ISC",
+	"repository": {}
+}
